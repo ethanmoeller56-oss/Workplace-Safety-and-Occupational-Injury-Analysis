@@ -35,7 +35,6 @@ The dataset comes from publicly available occupational injury and illness record
 ```text
 data/       Data files or download instructions
 notebooks/  Main analysis notebooks
-src/        Reusable Python helper scripts
 visuals/    Exported charts and graphics
 reports/    Final report and presentation materials
 outputs/    Cleaned tables and analysis outputs
