@@ -8,7 +8,7 @@ Which industries, workplace characteristics, and injury categories show the high
 
 ## Data Source
 The dataset comes from publicly available occupational injury and illness records. Due to file size limits, raw data files may not be included directly in this repository. Datasets are to upload to Github, they can be downloaded from this link:
-https://www.osha.gov/Establishment-Specific-Injury-and-Illness-Data
+www.osha.gov/Establishment-Specific-Injury-and-Illness-Data
 
 ## Methods
 - Data cleaning and standardization
