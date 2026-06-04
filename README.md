@@ -4,7 +4,7 @@
 This capstone project analyzes occupational injury and illness data to identify trends across industries, company sizes, and incident categories. The goal is to uncover patterns that can support workplace safety decision-making, risk reduction, and public health analysis.
 
 ## Business / Public Health Question
-Which industries, workplace characteristics, and injury categories show the highest burden of occupational injury and illness?
+Which industries and workplace characteristics show the highest burden of occupational injury and illness?
 
 ## Data Source
 The dataset comes from publicly available occupational injury and illness records. Due to file size limits, raw data files may not be included directly in this repository. Datasets are to large to upload to Github, they can be downloaded from this link:
