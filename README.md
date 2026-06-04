@@ -18,24 +18,10 @@ www.osha.gov/Establishment-Specific-Injury-and-Illness-Data
 - Visualization of key trends
 - Interpretation of workplace safety implications
 
-## Key Findings
-- Certain industries show consistently higher injury and illness burdens.
-- Company size appears to influence reported case patterns.
-- Recordable cases, DAFW cases, and total hours worked provide useful safety indicators.
-- Injury counts alone can be misleading without considering workforce size or exposure hours.
-
 ## Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
-
-## Repository Structure
-```text
-data/       Data files or download instructions
-notebooks/  Main analysis notebooks
-visuals/    Exported charts and graphics
-reports/    Final report and presentation materials
-outputs/    Cleaned tables and analysis outputs
+  
