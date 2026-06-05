@@ -25,3 +25,9 @@ www.osha.gov/Establishment-Specific-Injury-and-Illness-Data
 - Matplotlib
 - Jupyter Notebook
   
+## How to Use
+1. Download the OSHA datasets and place them in the project directory.  
+2. Run the notebooks in order:
+   - Exploratory Data Analysis
+   - Feature Engineering & Dataset Construction
+   - Modeling & Evaluation
